@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Spark AR Studio and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.jss.SparkARStudio</string>
+	<string>com.github.joeschmolo.jss.SparkARStudio</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
