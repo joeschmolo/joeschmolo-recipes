@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Unity Hub and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.jss.UnityHub</string>
+	<string>com.github.joeschmolo.jss.UnityHub</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
