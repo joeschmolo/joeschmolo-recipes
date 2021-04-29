@@ -25,14 +25,14 @@
 		<key>POLICY_TEMPLATE</key>
 		<string>PolicyTemplate.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
-		<string>Kega Fusion is an emulator for the Sega Genesis / Megadrive, Master System, Game Gear, 32x, SegaCD/MegaCD, SVP, Pico, SG-1000, SC-3000, and SF-7000 emulator for Win9x/ME/2000/XP/Vista/Win7, Mac OSX (Intel), and Linux.</string>
+		<string>Fusion 360 unifies design, engineering, electronics, and manufacturing into a single software platform.</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>%NAME%.png</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.joeschmolo.pkg.Fusion360</string>
+	<string>com.github.nstrauss.pkg.AutodeskFusion360</string>
 	<key>Process</key>
 	<array>
 		<dict>
