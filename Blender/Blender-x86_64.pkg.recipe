@@ -10,8 +10,8 @@
 	<dict>
 		<key>NAME</key>
 		<string>Blender</string>
-		<key>ARCHITECTURE</key>
-		<string>x86_64</string>
+        <key>ARCHITECTURE</key>
+		<string>x64</string>
 	</dict>
 	<key>ParentRecipe</key>
 	<string>io.github.hjuutilainen.download.Blender</string>
