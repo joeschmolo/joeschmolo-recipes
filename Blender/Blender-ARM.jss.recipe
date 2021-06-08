@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the current release version of Blender and builds a package. Then, uploads to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.joeschmolo.jss.Blender</string>
+	<string>com.github.joeschmolo.jss.Blender-ARM</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
@@ -32,7 +32,7 @@
 	<key>MinimumVersion</key>
 	<string>0.2.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.joeschmolo.pkg.Blender</string>
+	<string>com.github.joeschmolo.pkg.Blender-ARM</string>
 	<key>Process</key>
 	<array>
 		<dict>

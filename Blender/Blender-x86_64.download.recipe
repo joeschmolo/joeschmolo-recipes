@@ -5,13 +5,13 @@
 	<key>Description</key>
 	<string>Downloads the latest Blender. (At least) Since v2.93 you may choose between x64 and amd64 as architecture. This recipes defaults to x64.</string>
 	<key>Identifier</key>
-	<string>com.github.joeschmolo.download.Blender</string>
+	<string>com.github.joeschmolo.download.Blender-x86_64</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
 		<string>Blender</string>
 		<key>ARCHITECTURE</key>
-		<string>arm-64</string>
+		<string>x64</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.4.2</string>
