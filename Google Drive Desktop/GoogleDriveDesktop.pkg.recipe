@@ -14,7 +14,7 @@
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.joeschmolo.download.GoogleDriveDesktop</string>
+	<string>com.github.joeschmolo.download.GoogleDriveDesk</string>
 	<key>Process</key>
 	<array>
 		<dict>
