@@ -5,7 +5,7 @@
 	<key>Identifier</key>
 	<string>com.github.joeschmolo.pkg.GoogleDriveDesktop</string>
 	<key>Description</key>
-	<string>Downloads the latest version of Google Drive File Stream and creates a package.</string>
+	<string>Downloads the latest version of Google Drive and creates a package.</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
