@@ -19,7 +19,7 @@
 	<string>com.github.joeschmolo.download.Skype</string>
 	<key>Process</key>
 	<array>
-	 	<dict>
+		<dict>
             <key>Processor</key>
             <string>PlistReader</string>
             <key>Arguments</key>
@@ -33,8 +33,6 @@
                 </dict>
             </dict>
     	</dict>
-	</array>
-	<array>
 		<dict>
 			<key>Processor</key>
 			<string>AppPkgCreator</string>
