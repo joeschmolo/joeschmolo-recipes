@@ -18,10 +18,29 @@
 	<key>ParentRecipe</key>
 	<string>com.github.joeschmolo.download.Skype</string>
 	<key>Process</key>
+	 <dict>
+            <key>Processor</key>
+            <string>PlistReader</string>
+            <key>Arguments</key>
+            <dict>
+                <key>info_path</key>
+                <string>%pathname%</string>
+                <key>plist_keys</key>
+                <dict>
+                    <key>CFBundleVersion</key>
+                    <string>version</string>
+                </dict>
+            </dict>
+    </dict>
 	<array>
 		<dict>
 			<key>Processor</key>
 			<string>AppPkgCreator</string>
+			<key>Arguments</key>
+            <dict>
+                <key>pkgname</key>
+                <string>%NAME%-%version%</string>
+			</dict>
 		</dict>
 	</array>
 </dict>
