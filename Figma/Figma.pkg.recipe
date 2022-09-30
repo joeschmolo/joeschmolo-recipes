@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the current release version of Figma and builds a package.</string>
 	<key>Identifier</key>
-	<string>com.github.joeschmolo.pkg.Figma-ARM</string>
+	<string>com.github.joeschmolo.pkg.Figma</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -14,7 +14,7 @@
 		<string>arm64</string>
 	</dict>
 	<key>ParentRecipe</key>
-	<string>com.github.joeschmolo.download.Figma-ARM</string>
+	<string>com.github.joeschmolo.download.Figma</string>
 	<key>MinimumVersion</key>
 	<string>0.4.2</string>
 	<key>Process</key>
