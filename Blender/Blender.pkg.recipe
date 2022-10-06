@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the current release version of Blender and builds a package.</string>
 	<key>Identifier</key>
-	<string>com.github.joeschmolo.pkg.Blender-ARM</string>
+	<string>com.github.joeschmolo.pkg.Blender</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -14,7 +14,7 @@
 		<string>arm64</string>
 	</dict>
 	<key>ParentRecipe</key>
-	<string>com.github.joeschmolo.download.Blender-ARM</string>
+	<string>com.github.joeschmolo.download.Blender</string>
 	<key>MinimumVersion</key>
 	<string>0.4.2</string>
 	<key>Process</key>
