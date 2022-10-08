@@ -2,12 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Comment</key>
-	<string>Created with Recipe Robot v2.2.0 (https://github.com/homebysix/recipe-robot)</string>
 	<key>Description</key>
-	<string>Downloads the latest version of Dropbox Installer and uploads the package to your JSS.</string>
+	<string>Downloads the latest version of Dropbox and uploads the package to your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.joeschmolo.jss-upload.DropboxInstaller</string>
+	<string>com.github.joeschmolo.jss-upload.Dropbox</string>
 	<key>Input</key>
 	<dict>
 		<key>APP_FILENAME</key>
@@ -15,12 +13,12 @@
 		<key>CATEGORY</key>
 		<string>Productivity</string>
 		<key>NAME</key>
-		<string>Dropbox Installer</string>
+		<string>Dropbox</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.joeschmolo.pkg.DropboxInstaller</string>
+	<string>com.github.joeschmolo.pkg.Dropbox</string>
 	<key>Process</key>
 	<array>
 		<dict>
@@ -32,7 +30,7 @@
 				<string>%NAME%</string>
 			</dict>
 			<key>Processor</key>
-			<string>JSSImporter</string>
+			<string>com.github.grahampugh.jamf-upload.processors/JamfPackageUploader</string>
 		</dict>
 	</array>
 </dict>
