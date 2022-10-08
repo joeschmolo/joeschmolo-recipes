@@ -14,7 +14,7 @@
 		<string>x64</string>
 	</dict>
 	<key>ParentRecipe</key>
-	<string>com.github.joschmolo.download.Blender</string>
+	<string>com.github.joschmolo.download.Blender-x86_64</string>
 	<key>MinimumVersion</key>
 	<string>0.4.2</string>
 	<key>Process</key>
