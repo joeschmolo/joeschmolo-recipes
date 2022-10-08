@@ -17,7 +17,7 @@
          <key>SOFTWARETITLE</key>
          <string>Edge</string>
          <key>DOWNLOADURL</key>
-         <string>https://go.microsoft.com/fwlink/?linkid=2093504&platform=Mac&Consent=1&channel=Stable</string>
+         <string>https://go.microsoft.com/fwlink/?linkid=2093504</string>
       </dict>
       <key>Process</key>
       <array>
