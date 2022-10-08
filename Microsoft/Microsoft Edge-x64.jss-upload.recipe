@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.joeschmolo.pkg.microsoftedgex64</string>
+	<string>com.github.joeschmolo.pkg.microsoftedge-x64</string>
 	<key>Process</key>
 	<array>
 		<dict>
