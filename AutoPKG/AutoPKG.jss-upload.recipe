@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.joeschmolo.download.autopkg</string>
+	<string>com.github.joeschmolo.download.Autopkg</string>
 	<key>Process</key>
 	<array>
 		<dict>
