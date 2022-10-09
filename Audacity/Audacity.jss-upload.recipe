@@ -5,7 +5,7 @@
   <key>Description</key>
 	<string>Downloads the latest version of Audacity and uploads the package to your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.joeschmolo.jss-upload.audacity</string>
+	<string>com.github.joeschmolo.jss-upload.Audacity</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.joeschmolo.download.audacity</string>
+	<string>com.github.joeschmolo.download.Audacity</string>
 	<key>Process</key>
 	<array>
 		<dict>
