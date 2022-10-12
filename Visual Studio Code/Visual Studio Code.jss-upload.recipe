@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Code and uploads the package to your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.joeschmolo.jss-upload.Code</string>
+	<string>com.github.joeschmolo.jss-upload.visualstudiocode</string>
 	<key>Input</key>
 	<dict>
 		<key>APP_FILENAME</key>
@@ -20,7 +20,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.joeschmolo.pkg.Code</string>
+	<string>com.github.joeschmolo.pkg.visualstudiocode</string>
 	<key>Process</key>
 	<array>
 		<dict>
@@ -32,7 +32,7 @@
 				<string>%NAME%</string>
 			</dict>
 			<key>Processor</key>
-			<string>JSSImporter</string>
+			<string>com.github.grahampugh.jamf-upload.processors/JamfPackageUploader</string>
 		</dict>
 	</array>
 </dict>
