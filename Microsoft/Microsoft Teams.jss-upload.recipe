@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.joeschmolo.download.microsoftteams</string>
+	<string>com.github.joeschmolo.pkg.microsoftteams</string>
 	<key>Process</key>
 	<array>
 		<dict>
