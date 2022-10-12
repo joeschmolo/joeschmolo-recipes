@@ -28,8 +28,6 @@
             <dict>
                <key>url</key>
                <string>%DOWNLOADURL%</string>
-               <key>prefetch_filename</key>
-               <string>True</string>
             </dict>
          </dict>
          <dict>
