@@ -37,8 +37,19 @@
          <dict>
             <key>Arguments</key>
             <dict>
+               <key>destination_path</key>
+               <string>%RECIPE_CACHE_DIR%/downloads/unpack2</string>
+               <key>flat_pkg_path</key>
+               <string>%RECIPE_CACHE_DIR%/downloads/unpack/Microsoft_Excel_Internal.pkg</string>
+            </dict>
+            <key>Processor</key>
+            <string>FlatPkgUnpacker</string>
+         </dict>
+         <dict>
+            <key>Arguments</key>
+            <dict>
                <key>pattern</key>
-               <string>%RECIPE_CACHE_DIR%/downloads/unpack/*Office*.pkg</string>
+               <string>%RECIPE_CACHE_DIR%/downloads/unpack2/*Office*.pkg</string>
             </dict>
             <key>Processor</key>
             <string>FileFinder</string>
