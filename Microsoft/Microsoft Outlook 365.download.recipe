@@ -11,11 +11,11 @@
       <key>Input</key>
       <dict>
          <key>NAME</key>
-         <string>Microsoft Outlook 365</string>
+         <string>Microsoft Outlook</string>
          <key>VENDOR</key>
          <string>Microsoft</string>
          <key>SOFTWARETITLE</key>
-         <string>Outlook 365</string>
+         <string>Outlook</string>
          <key>DOWNLOADURL</key>
          <string>https://go.microsoft.com/fwlink/?linkid=525137</string>
       </dict>
@@ -54,3 +54,5 @@
       </array>
    </dict>
 </plist>
+
+      
