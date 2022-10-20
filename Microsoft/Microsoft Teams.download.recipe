@@ -5,7 +5,7 @@
       <key>Description</key>
       <string>Downloads the latest Microsoft Teams pkg.</string>
       <key>Identifier</key>
-      <string>com.github.joeschmolo.download.microsoftteams</string>
+      <string>com.github.joeschmolo.download.microsoftpowerpoint</string>
       <key>MinimumVersion</key>
       <string>1.0.0</string>
       <key>Input</key>
@@ -28,8 +28,8 @@
             <dict>
                <key>url</key>
                <string>%DOWNLOADURL%</string>
-               <key>prefetch_filename</key>
-               <string>True</string>
+               <key>filename</key>
+               <string>%VENDOR%-%SOFTWARETITLE%.pkg</string>
             </dict>
          </dict>
          <dict>
@@ -54,3 +54,5 @@
       </array>
    </dict>
 </plist>
+
+      
