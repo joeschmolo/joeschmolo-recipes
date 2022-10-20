@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.joeschmolo.download.microsoftonedrive</string>
+	<string>com.github.joeschmolo.pkg.microsoftonedrive</string>
 	<key>Process</key>
 	<array>
 		<dict>
