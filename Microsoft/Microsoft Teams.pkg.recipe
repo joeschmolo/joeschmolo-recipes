@@ -5,7 +5,7 @@
       <key>Description</key>
       <string>Downloads the latest version of Microsoft Teams.</string>
       <key>Identifier</key>
-      <string>com.github.joeschmolo.pkg.microsoftexcel</string>
+      <string>com.github.joeschmolo.pkg.microsoftteams</string>
       <key>Input</key>
       <dict>
          <key>NAME</key>
@@ -15,7 +15,7 @@
          <key>SOFTWARETITLE</key>
          <string>Teams</string>
          <key>VERSIONTYPE</key>
-         <string>CFBundleVersion</string>
+         <string>CFBundleGetInfoString</string>
       </dict>
       <key>MinimumVersion</key>
       <string>1.0.0</string>
