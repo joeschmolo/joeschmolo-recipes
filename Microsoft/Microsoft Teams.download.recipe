@@ -5,7 +5,7 @@
       <key>Description</key>
       <string>Downloads the latest Microsoft Teams pkg.</string>
       <key>Identifier</key>
-      <string>com.github.joeschmolo.download.microsoftpowerpoint</string>
+      <string>com.github.joeschmolo.download.microsoftteams</string>
       <key>MinimumVersion</key>
       <string>1.0.0</string>
       <key>Input</key>
