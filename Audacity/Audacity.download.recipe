@@ -57,6 +57,17 @@ Set the ARCHITECTURE variable to "arm64" for Apple Silicone
             <key>Processor</key>
             <string>CodeSignatureVerifier</string>
         </dict>
+        <dict>
+			<key>Arguments</key>
+			<dict>
+				<key>input_plist_path</key>
+				<string>%pathname%/Audacity.app/Contents/Info.plist</string>
+				<key>plist_version_key</key>
+				<string>CFBundleShortVersionString</string>
+			</dict>
+			<key>Processor</key>
+			<string>Versioner</string>
+		</dict>
     </array>
 </dict>
 </plist>
