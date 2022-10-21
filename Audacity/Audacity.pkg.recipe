@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Create a package from the Audacity DMG.</string>
 	<key>Identifier</key>
-	<string>com.github.scriptingosx.pkg.audacity</string>
+	<string>com.github.joeschmolo.pkg.audacity</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
