@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Dropbox and creates a package.</string>
 	<key>Identifier</key>
-	<string>com.joeschmolo.pkg.dropbox</string>
+	<string>com.github.joeschmolo.pkg.dropbox</string>
 	<key>Input</key>
 	<dict>
 		<key>APP_FILENAME</key>
@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.joeschmolo.download.dropbox</string>
+	<string>com.github.joeschmolo.download.dropbox</string>
 	<key>Process</key>
 	<array>
 		<dict>
